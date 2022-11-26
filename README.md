@@ -8,9 +8,6 @@
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=miracle24&show_icons=true&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true" width="600"/>
 </p>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracle24&theme=flag-india&hide_border=true" width="600"/>
-</p>
 </p>
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=miracle24&theme=flat&column=-1&no-frame=true" width="600"/>
