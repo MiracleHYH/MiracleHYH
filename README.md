@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=miracle24&color=orange&style=for-the-badge" />
 </p>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/71177584/204096985-3846c5d9-9de5-4efb-92d7-a1476013f3bf.gif" width="500" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/71177584/204096985-3846c5d9-9de5-4efb-92d7-a1476013f3bf.gif" width="400" />
 
 ## 👨🏻‍💻 About me
 
