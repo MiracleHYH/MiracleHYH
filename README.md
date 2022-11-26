@@ -8,7 +8,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-## 👨 About me
+## 👨🏻‍💻 About me
 
 **I'm a graduate student majoring in AI and CS 👨‍🎓**
 - 🔭 I’m currently working on works.
