@@ -1,4 +1,4 @@
-# Hi, I'm Miracle24👋
+# Hi, I'm MiracleHYH👋
 <p align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=60&pause=1000&color=ffa140&center=true&width=680&height=120&lines=Miracle24" width="680"/>
 </p>
