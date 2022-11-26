@@ -1,5 +1,6 @@
 # Hi, there! I'm Jack He👋
 <p align="center">
+  <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=60&pause=1000&color=ffa140&center=true&width=680&height=120&lines=Miracle24" width="680"/>
 </p>
 <p align="center">
