@@ -1,8 +1,12 @@
-# Hi, there! I'm Jack He👋
+# Hi, there! I'm Jack He <img src="https://user-images.githubusercontent.com/71177584/204090535-8da76dcf-df5e-44aa-a9e4-f658f051dcff.gif" width="25px" />
 <p align="center">
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=60&pause=1000&color=ffa140&center=true&width=680&height=120&lines=Miracle24" width="680"/>
 </p>
+
+
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=miracle24&color=orange&style=for-the-badge"/>
 </p>
@@ -21,7 +25,7 @@
 
 </br></br>
 
-## My GitHub Stats
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> GitHub Stats
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=miracle24&show_icons=true&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true" width="600"/>
