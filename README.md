@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 
-[![Miracle24's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miracle24)](https://github.com/anuraghazra/github-readme-stats)
+[![Miracle24's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miracle24&theme=flag-india&show_icons=true)](https://github.com/MiracleHYH)
 
 <!---
 MiracleHYH/MiracleHYH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
