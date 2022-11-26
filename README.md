@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @MiracleHYH
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 
-[![Miracle24's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miracle24&theme=flag-india&show_icons=true)](https://github.com/MiracleHYH)
+<p align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=60&pause=1000&color=ffa140&center=true&width=680&height=120&lines=Miracle24" width="680"/>
+</p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=miracle24&color=orange&style=for-the-badge"/>
+</p>
 
-<!---
-MiracleHYH/MiracleHYH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=miracle24&show_icons=true&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true" width="600"/>
+</p>
+</p>
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=miracle24&theme=flat&column=-1&no-frame=true" width="600"/>
+</p>
+<!-- <p align="center"> 
+  Visitor count</br>
+  <img src="https://profile-counter.glitch.me/miracle24/count.svg"/>
+</p> -->
