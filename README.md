@@ -28,15 +28,11 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> GitHub Stats
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=miracle24&show_icons=true&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true" width="750"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=miracle24&show_icons=true&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true" width="700"/>
 </p>
 </p>
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=miracle24&theme=flat&column=-1&no-frame=true" width="750"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=miracle24&theme=flat&column=-1&no-frame=true" width="700"/>
 </p>
-<!-- <p align="center"> 
-  Visitor count</br>
-  <img src="https://profile-counter.glitch.me/miracle24/count.svg"/>
-</p> -->
 
 ---
