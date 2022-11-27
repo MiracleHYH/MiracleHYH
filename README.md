@@ -1,11 +1,8 @@
 # Hi, there! I'm Jack He <img src="https://user-images.githubusercontent.com/71177584/204090535-8da76dcf-df5e-44aa-a9e4-f658f051dcff.gif" width="25px" />
 <p align="center">
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=60&pause=1000&color=ffa140&center=true&width=680&height=120&lines=miracle24" width="800"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=60&duration=3000&pause=5000&color=FFA140&center=true&vCenter=true&width=900&height=90&lines=miracle24" width="900"/>
 </p>
-
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=miraclehyh&color=orange&style=for-the-badge" />
@@ -23,18 +20,14 @@
 - 📫 How to reach me: to reach somewhere I reach.
 - 😄 Fun facts are very funny.
 
-</br></br>
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> GitHub Stats
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=miraclehyh&show_icons=true&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true" width="700"/>
+<p> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=miraclehyh&show_icons=true&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true" height="200" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraclehyh&theme=flag-india&layout=compact&hide_border=true" height="200" />
 </p>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraclehyh&theme=flag-india&layout=compact&hide_border=true" width="700"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=miraclehyh&theme=flat&column=-1&no-frame=true" width="900"/>
 </p>
-</p>
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=miraclehyh&theme=flat&column=-1&no-frame=true" width="700"/>
-</p>
+  
 ---
