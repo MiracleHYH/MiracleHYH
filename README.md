@@ -20,7 +20,7 @@
 - 📫 How to reach me: to reach somewhere I reach.
 - 😄 Fun facts are very funny.
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> GitHub Stats
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="20" /> GitHub Stats
 
 <p> 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=miraclehyh&show_icons=true&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true" height="200" />
@@ -30,21 +30,21 @@
   <img src="https://github-profile-trophy.vercel.app/?username=miraclehyh&theme=flat&column=-1&no-frame=true" width="900"/>
 </p>
 
-## Skills
+## <img src="https://img.icons8.com/dusk/64/null/development-skill.png" height="20" /> My Skills
 
-### Languages and Frameworks
+### <img src="https://img.icons8.com/dusk/64/null/program.png" height="17" /> Languages and Frameworks
 
 <p align="left"> 
   <img src="https://skillicons.dev/icons?i=cpp,py,qt,pytorch,html,js,css,nginx,django,flask,bootstrap,jquery,vue,md,latex&theme=light&perline=20" />
 </p>
 
-### Tools and Environments
+### <img src="https://img.icons8.com/dusk/64/null/maintenance.png" height="17" /> Tools and Environments
 
 <p align="left"> 
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,wordpress,androidstudio,docker,git,github,linux,matlab,mysql,nodejs,&theme=light&perline=20" />
 </p>
 
-### Learning
+### <img src="https://img.icons8.com/dusk/64/null/learn-more.png" height="17" /> Learning
 
 <p align="left"> 
   <img alt="OpenCV" title="OpenCV" src="https://user-images.githubusercontent.com/71177584/204132497-f1a9b519-74eb-4e99-b42e-205e5fa2a91e.svg" width="40"/>
@@ -52,6 +52,12 @@
   <img alt="Linux" title="Linux" src="https://user-images.githubusercontent.com/71177584/204132831-b59ba588-022a-475d-a2da-4e72fb8349cc.svg" width="40"/>
   <img alt="ROS" title="ROS" src="https://user-images.githubusercontent.com/71177584/204132833-1fbf62e3-b879-452e-916b-8ac865902eb8.svg" width="40"/>
 </p>
+
+## <img src="https://img.icons8.com/dusk/64/null/share-2.png" height="20" /> Contact
+
+<a href="mailto:miracle20001110@gmail.com" target="_blank"><img alt="GMail" title="GMail" src="https://img.icons8.com/dusk/64/null/gmail.png" width="40"></a>
+<a href="https://t.me/Miracle996" target="_blank"><img alt="Telegram" title="Telegram" src="https://img.icons8.com/dusk/64/null/telegram-app.png" width="40"></a>
+<a href="https://twitter.com/Miracle111024" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.icons8.com/dusk/64/null/twitter-circled.png" width="40"></a>
 
 ---
 
