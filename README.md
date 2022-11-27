@@ -47,10 +47,10 @@
 ### Learning
 
 <p align="left"> 
-  <img alt="OpenCV" title="OpenCV" src="https://user-images.githubusercontent.com/71177584/204132497-f1a9b519-74eb-4e99-b42e-205e5fa2a91e.svg" width="20"/>
-  <img alt="PyTorch" title="PyTorch" src="https://user-images.githubusercontent.com/71177584/204132719-1504e069-76d8-4b82-87e8-60493f0c99c2.svg" width="20"/>
-  <img alt="Linux" title="Linux" src="https://user-images.githubusercontent.com/71177584/204132831-b59ba588-022a-475d-a2da-4e72fb8349cc.svg" width="20"/>
-  <img alt="ROS" title="ROS" src="https://user-images.githubusercontent.com/71177584/204132833-1fbf62e3-b879-452e-916b-8ac865902eb8.svg" width="20"/>
+  <img alt="OpenCV" title="OpenCV" src="https://user-images.githubusercontent.com/71177584/204132497-f1a9b519-74eb-4e99-b42e-205e5fa2a91e.svg" width="40"/>
+  <img alt="PyTorch" title="PyTorch" src="https://user-images.githubusercontent.com/71177584/204132719-1504e069-76d8-4b82-87e8-60493f0c99c2.svg" width="40"/>
+  <img alt="Linux" title="Linux" src="https://user-images.githubusercontent.com/71177584/204132831-b59ba588-022a-475d-a2da-4e72fb8349cc.svg" width="40"/>
+  <img alt="ROS" title="ROS" src="https://user-images.githubusercontent.com/71177584/204132833-1fbf62e3-b879-452e-916b-8ac865902eb8.svg" width="40"/>
 </p>
 
 ---
