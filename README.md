@@ -23,8 +23,8 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="20" /> GitHub Stats
 
 <p> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=miraclehyh&show_icons=true&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraclehyh&theme=flag-india&layout=compact&hide_border=true&langs_count=5&hide=makefile,cmake" height="180" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=miraclehyh&show_icons=true&theme=flag-india&hide_border=true&include_all_commits=true&count_private=true" height="150" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraclehyh&theme=flag-india&layout=compact&hide_border=true&langs_count=5&hide=makefile,cmake" height="150" />
 </p>
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=miraclehyh&theme=flat&column=-1&no-frame=true" width="860"/>
