@@ -27,7 +27,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraclehyh&theme=flag-india&layout=compact&hide_border=true&langs_count=5&hide=makefile,cmake" height="170" />
 </p>
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=miraclehyh&theme=flat&column=-1&no-frame=true" width="860"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=miraclehyh&theme=flat&column=2&no-frame=true" width="860"/>
 </p>
 
 ## <img src="https://img.icons8.com/dusk/64/null/development-skill.png" height="20" /> My Skills
